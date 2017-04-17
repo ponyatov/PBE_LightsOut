@@ -1,0 +1,14 @@
+{
+	"category" : "PBE_LightsOut",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DmitryPonyatov 4/8/2017 11:37",
+	"instvars" : [
+		"cells" ],
+	"name" : "LOGame",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }
